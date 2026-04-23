@@ -12,6 +12,7 @@ meu_teste_vault/
 
 # Arquivos de Teste Brutos
 *.pdf
+.txt
 
 # Variáveis de Ambiente
 .env
