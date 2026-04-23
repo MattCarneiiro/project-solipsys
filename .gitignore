@@ -1,0 +1,17 @@
+# Ambientes Virtuais
+venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Dados Locais do Solipsys (Nunca suba seus PDFs e Banco de Dados pessoais!)
+vault_data/
+meu_teste_vault/
+
+# Arquivos de Teste Brutos
+*.pdf
+
+# Variáveis de Ambiente
+.env
